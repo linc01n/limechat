@@ -674,7 +674,7 @@
             t = [t stringByAppendingString:@" "];
         }
         else {
-            t = [t stringByAppendingString:@": "];
+            t = [t stringByAppendingString:@", "];
         }
     }
 
